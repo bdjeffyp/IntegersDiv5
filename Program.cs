@@ -60,6 +60,7 @@ namespace IntegersDiv5
             // Find the number of digits divisible by 5 between the two given digits.
             // Loop to check each number one by one, then use modulus to count the desired number.
             // Display each number on the same line as we go.
+            //TODO: This could be made faster based on the fact that we know that every fifth number is divisible by 5...
             for (int i = lower + 1; i < upper; i++)
             {
                 
