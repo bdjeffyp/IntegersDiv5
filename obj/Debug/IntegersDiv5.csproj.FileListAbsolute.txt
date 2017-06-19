@@ -1,0 +1,6 @@
+c:\users\wwstudent\documents\visual studio 2017\Projects\IntegersDiv5\IntegersDiv5\bin\Debug\IntegersDiv5.exe.config
+c:\users\wwstudent\documents\visual studio 2017\Projects\IntegersDiv5\IntegersDiv5\bin\Debug\IntegersDiv5.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\IntegersDiv5\IntegersDiv5\bin\Debug\IntegersDiv5.pdb
+c:\users\wwstudent\documents\visual studio 2017\Projects\IntegersDiv5\IntegersDiv5\obj\Debug\IntegersDiv5.csprojResolveAssemblyReference.cache
+c:\users\wwstudent\documents\visual studio 2017\Projects\IntegersDiv5\IntegersDiv5\obj\Debug\IntegersDiv5.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\IntegersDiv5\IntegersDiv5\obj\Debug\IntegersDiv5.pdb
